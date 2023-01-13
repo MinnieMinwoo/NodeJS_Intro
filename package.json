@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_intro",
+  "version": "1.0.0",
+  "description": "Source:",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinnieMinwoo/NodeJS_Intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinnieMinwoo/NodeJS_Intro/issues"
+  },
+  "homepage": "https://github.com/MinnieMinwoo/NodeJS_Intro#readme",
+  "dependencies": {
+    "sanitize-html": "^2.8.1"
+  }
+}
