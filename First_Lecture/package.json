@@ -1,7 +1,7 @@
 {
-  "name": "web2-nodejs",
+  "name": "nodejs_intro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Source:",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web-n/Nodejs.git"
+    "url": "git+https://github.com/MinnieMinwoo/NodeJS_Intro.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/web-n/Nodejs/issues"
+    "url": "https://github.com/MinnieMinwoo/NodeJS_Intro/issues"
   },
-  "homepage": "https://github.com/web-n/Nodejs#readme",
+  "homepage": "https://github.com/MinnieMinwoo/NodeJS_Intro#readme",
   "dependencies": {
-    "sanitize-html": "^1.18.2"
+    "sanitize-html": "^2.8.1"
   }
 }
